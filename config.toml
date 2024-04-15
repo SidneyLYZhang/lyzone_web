@@ -37,6 +37,7 @@ connect = [
     { url = "https://lyzhang.me", text="Blog.SZ"},
     { url = "https://resume.lyzhang.me/", text="about SZ"},
     { url = "https://www.douban.com/people/jossitxzhao/", text="about JZ"},
+    { url = "mailto:zly@lyzhang.me", text="Email"},
 ]
 
 social = [
