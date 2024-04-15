@@ -1,0 +1,11 @@
+Building site...
+Checking all internal links with anchors.
+> Successfully checked 0 internal link(s) with anchors.
+-> Creating 1 pages (0 orphan) and 1 sections
+Done in 32ms.
+
+Listening for changes in /home/serverall/web/{config.toml,content,static,templates,themes}
+Press Ctrl+C to stop
+
+Web server is available at http://127.0.0.1:1111
+

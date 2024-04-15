@@ -1,0 +1,52 @@
+# The URL the site will be built for
+base_url = "./"
+
+title = "MJ-Home"
+description = "Our Page ..."
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "zplit"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+
+author = "Sidney Zhang & Jossitx Zhao"
+
+[extra.content]
+
+intro_tagline = "Every day is Happy Day !"
+bio = "生活是多姿多彩的，每一天都要开心面对，这样才能不辜负这美好的时光。在每一个开心的午后，沐浴在阳光下，看着书、撸着猫，与爱人陪伴，这一切是如此开心。"
+
+[extra.visual]
+
+background = "background.jpg"
+position = "center center"
+
+[extra.lists]
+
+connect = [
+    { url = "https://lyzhang.me", text="Blog.SZ"},
+    { url = "https://resume.lyzhang.me/", text="about SZ"},
+    { url = "https://www.douban.com/people/jossitxzhao/", text="about JZ"},
+]
+
+social = [
+    {url = "https://twitter.com/Sidneyzhang", text = "Twitter"},
+    {url = "https://github.com/sidneylyzhang", text = "Github"},
+]
+
+network = [
+    { url = "https://lyz.one/somethings", text="say some"},
+    { url = "https://chat.lyz.one/", text="AI.Chat"},
+    { url = "https://rag.lyz.one/", text="RAG.AI"},
+    { url = "https://manage.lyz.one/", text="Manager"},
+]
