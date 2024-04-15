@@ -1,0 +1,1 @@
+docker run --rm -d --net=lyzonenetwork --name lyzsite -p 1111:80 lyz_web:latest

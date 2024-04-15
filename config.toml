@@ -45,7 +45,7 @@ social = [
 ]
 
 network = [
-    { url = "https://lyz.one/somethings", text="say some"},
+    { url = "https://lyz.one/something", text="say some"},
     { url = "https://chat.lyz.one/", text="AI.Chat"},
     { url = "https://rag.lyz.one/", text="RAG.AI"},
     { url = "https://manage.lyz.one/", text="Manager"},
