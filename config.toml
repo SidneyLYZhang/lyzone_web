@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "./"
+base_url = "https://lyz.one/"
 
 title = "MJ-Home"
 description = "Our Page ..."
@@ -48,6 +48,6 @@ social = [
 network = [
     { url = "https://lyz.one/something", text="say some"},
     { url = "https://chat.lyz.one/", text="AI.Chat"},
-    { url = "https://rag.lyz.one/", text="RAG.AI"},
-    { url = "https://manage.lyz.one/", text="Manager"},
+    { url = "https://api.lyz.one/", text="AI.API"},
+    { url = "https://manager.lyz.one/", text="Manager"},
 ]
